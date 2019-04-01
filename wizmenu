@@ -1,3 +1,17 @@
+
+name="-- Kodi 18 Builds --"
+version="0.1"
+url="http://"
+gui="http://"
+kodi="18"
+theme="http://"
+icon="https://"
+fanart="https://"
+preview="http://"
+adult="no"
+description=""
+
+
 name=" NZ Build kodi 18"
 version="1.5"
 url="https://archive.org/download/Nzkodibuild18-10-32018/Kodi.zip"
@@ -25,6 +39,17 @@ description="New Zealand Premium Build  Works great with Realdebrid etc Kodi 18"
 
 
 
+name="-- Kodi 17.6 Builds --"
+version="0.1"
+url="http://"
+gui="http://"
+kodi="18"
+theme="http://"
+icon="https://"
+fanart="https://"
+preview="http://"
+adult="no"
+description=""
 
 name=" NZ Build"
 version="4.0"
@@ -38,17 +63,8 @@ preview="http://"
 adult="no"
 description="New Zealand Kodi 17 Build works on all Devices (Note PVR will not work on libreelec kodi use Libreelec rasberry pi version for this)"
 
-name=" NZ Build -Multi profile"
-version="1.0"
-url="https://archive.org/download/thomasnz_hotmail_Kodi_20181117/Kodi.zip"
-gui="http://"
-kodi="17.6"
-theme="http://"
-icon="https://s10.postimg.org/sb7vhcytl/image.png"
-fanart="https://s10.postimg.org/sb7vhcytl/image.png"
-preview="http://"
-adult="no"
-description="New Zealand Kodi 17 Build works on all Devices exl Raspberry pi  This build has 2 profiles Master (pin 0000) and Kids profile"
+
+
 
 
 name="NZ Build - raspberry pi libreelec"
