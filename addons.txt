@@ -34,7 +34,7 @@ description="Exodus Redux Video Addon"
 
 name="Maverick TV"
 plugin="plugin.video.MaverickTV"
-url="https://raw.githubusercontent.com/Maverick53/repo/master/plugins/plugin.video.MaverickTV"
+url="https://github.com/Maverick53/repo/raw/master/plugins/plugin.video.MaverickTV/plugin.video.MaverickTV-9.1.5.8.zip"
 repository="repository.maverickrepo"
 repositoryxml="https://raw.githubusercontent.com/Maverick53/repo/master/addons.xml"
 repositoryurl="https://raw.githubusercontent.com/Maverick53/repo/master/plugins/repository.maverickrepo"
