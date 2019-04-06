@@ -43,5 +43,13 @@ fanart="https://github.com/I-A-C/repository.exodusredux/raw/master/fanart.jpg"
 adult="no"
 description="Exodus Redux Video Addon"
 
-
-
+name="Indigo"
+plugin="plugin.program.indigo"
+url="https://github.com/tvaddonsco/tva-release-repo/raw/master/plugin.program.indigo/"
+repository="repository.xbmchub" 
+repositoryxml="https://github.com/tvaddonsco/tva-release-repo/raw/master/addons.xml"
+repositoryurl="https://github.com/tvaddonsco/tva-release-repo/raw/master/repository.xbmchub/"
+icon="https://github.com/tvaddonsco/tva-release-repo/raw/master/plugin.program.indigo/icon.png"
+fanart="https://github.com/tvaddonsco/tva-release-repo/raw/master/plugin.program.indigo/fanart.jpg"
+adult="no"
+description="Indigo by TV Addons is your gateway to the world of unofficial Kodi addons!"
