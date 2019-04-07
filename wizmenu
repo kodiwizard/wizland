@@ -170,3 +170,16 @@ preview="http://"
 adult="no"
 description="Test Build Kodi 18"
 
+name="bang - simple Dev test!"
+version="1.0"
+url="https://archive.org/download/devtwdtfinal/devtwdtfinal.zip"
+gui="http://"
+kodi="18"
+theme="http://"
+icon="https://cdn.pixabay.com/photo/2014/06/03/19/38/test-361512_960_720.jpg"
+fanart="https://cdn.pixabay.com/photo/2014/06/03/19/38/test-361512_960_720.jpg"
+preview="http://"
+adult="no"
+description="Test Build Kodi 18"
+
+
