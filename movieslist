@@ -4,7 +4,7 @@
 http:\\www.deadlyblogger.com\NewRelease\orphan2009.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Now_You_See_Me_Poster.jpg/220px-Now_You_See_Me_Poster.jpg" group-title="MOVIES",Now You See me (2013)
-http:\\ace-net.net\stream\Movies\PublicMovies\Now You See Me.mp4
+http://ace-net.net/stream/Movies/PublicMovies/Now%20You%20See%20Me.mp4
 
 
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video51/v4/1c/a0/bc/1ca0bcd6-b7ba-c7f3-2b02-ea7d34e13ca6/2550380LGINT_EN.jpg/268x0w.jpg" group-title="MOVIES",Now You See me 2 (2016)
@@ -15,3 +15,6 @@ http://www.deadlyblogger.com/NewRelease/fast5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AOc6qYxlavc/movieposter.jpg" group-title="MOVIES",Rise of the Planet of the Apes (2011)
 http://www.deadlyblogger.com/NewRelease/apes7.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Samsara_Film_Poster.jpg/220px-Samsara_Film_Poster.jpg" group-title="MOVIES",Samsara (2011)
+https://archive.org/download/Samsara.2011.1080p.BRrip.x265.HEVC.10bit.PoOlLa/Samsara.2011.1080p.BRrip.x265.HEVC.10bit.PoOlLa.mp4
