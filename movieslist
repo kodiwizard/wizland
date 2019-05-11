@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-logo="http://dhakaftp.com/Admin/main/images/tt8852536/poster/kJxkdh6UyKU0VfW6Jah0S4jifCV.jpg" group-title="MOVIES",Firebrand (2019)
 http://103.205.233.70/Data/Disk9/Movies_R/South%20indian%20Movies/Firebrand%20%282019%29/Firebrand%20%282019%29%20Hindi%20720p%20HDRip%20x264%20AAC%20MSubs%20-%20Downloadhub.mkv
 
@@ -18,6 +20,9 @@ http://dhakaftp.com/Data/Disk5/Hollywood/2019/The%20Silence%20(2019)/The.Silence
 
 #EXTINF:-1 tvg-logo="http://dhakaftp.com/Admin/main/images/tt8196692/poster/hOnf5hPadLQOPXh1GSTMPvXXtcW.jpg" group-title="MOVIES",Soul Hunters (2019)
 http://dhakaftp.com/Data/Disk10/English_2019/Soul%20Hunters%20(2019)/Soul%20Hunters%20(2019)%20[1080p]%20WEBRip.mp4
+
+#EXTINF:-1 tvg-logo="http://dhakaftp.com/Admin/main/images/tt7533152/poster/yOr7RxHw15MMXNxGMXSmngDqHyI.jpg" group-title="MOVIES",The Boy Who Harnessed the Wind (2019)
+http://dhakaftp.com/Data/Disk10/English_2019/The%20Boy%20Who%20Harnessed%20the%20Wind%20(2019)/The%20Boy%20Who%20Harnessed%20the%20Wind%20(2019)%20English%20-%20720p%20-%20HDRip%20-%20x264%20-%20900MB%20-%20AAC%20-%20ESub%20-%20MovCr.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Now_You_See_Me_Poster.jpg/220px-Now_You_See_Me_Poster.jpg" group-title="MOVIES",Now You See me (2013)
 http://ace-net.net/stream/Movies/PublicMovies/Now%20You%20See%20Me.mp4
