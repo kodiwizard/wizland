@@ -2,3 +2,16 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Orphanposter.jpg" group-title="MOVIES",Orphan (2009)
 http:\\www.deadlyblogger.com\NewRelease\orphan2009.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Now_You_See_Me_Poster.jpg/220px-Now_You_See_Me_Poster.jpg" group-title="MOVIES",Now You See me (2013)
+http:\\ace-net.net\stream\Movies\PublicMovies\Now You See Me.mp4
+
+
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video51/v4/1c/a0/bc/1ca0bcd6-b7ba-c7f3-2b02-ea7d34e13ca6/2550380LGINT_EN.jpg/268x0w.jpg" group-title="MOVIES",Now You See me 2 (2016)
+http://ace-net.net/stream/Movies/PublicMovies/Now%20You%20See%20Me%202.mp4
+
+#EXTINF:-1 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/b2/b299ad862b6f12cb57679f0538eca514_500x735.jpg" group-title="MOVIES",Fast Five (2011)*
+http://www.deadlyblogger.com/NewRelease/fast5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AOc6qYxlavc/movieposter.jpg" group-title="MOVIES",Rise of the Planet of the Apes (2011)
+http://www.deadlyblogger.com/NewRelease/apes7.mp4
