@@ -13,8 +13,8 @@ description=""
 
 
 name=" NZ Build kodi 18"
-version="7.1"
-url="https://archive.org/download/nzkodi_201906/nz%20kodi.zip"
+version="7.5"
+url="https://archive.org/download/backup_20190626/backup.zip"
 gui="http://"
 kodi="18"
 theme="http://"
