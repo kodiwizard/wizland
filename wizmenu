@@ -74,6 +74,20 @@ adult="no"
 description="New Zealand Premium Build  Works great with Realdebrid etc Kodi 18"
 
 
+name="nz magic rasbperrypi"
+version="1.0"
+url="http://www.nolimits5.appboxes.co/kodi/nolimits/builds/nolimitsfirestick-na-18.zip"
+gui="http://"
+kodi="18.0"
+theme="http://"
+icon="http://www.nolimitswiz.appboxes.co/kodi/nolimits/images/icon1d.png"
+fanart="http://www.nolimitswiz.appboxes.co/kodi/nolimits/images/fanart1.jpg"
+preview="http://"
+adult="no"
+description="No Limits Firestick Lite Leia Build This lite version of the build does not has a XXX Adult Section. Use this version with Amazon FireStick or other devices with only 1GB RAM"
+
+
+
 name="-- TEST BUILDS --"
 version="0.1"
 url="http://"
