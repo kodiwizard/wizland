@@ -14,7 +14,7 @@ description=""
 
 name=" NZ Build kodi 18"
 version="8.0"
-url="https://archive.org/download/nzbuild13-04-20/nzbuild13-04-20.zip"
+url="https://kodihub.net/txs22"
 gui="http://"
 kodi="18"
 theme="http://"
@@ -28,7 +28,7 @@ description="New Zealand Kodi 18.6 Build works on PC (PVR) Updated 13/04/2020 - 
 
 name=" NZ Build kodi 18 -server 2"
 version="8.0"
-url="https://kodihub.net/txs22"
+url="https://archive.org/download/nzbuild13-04-20/nzbuild13-04-20.zip"
 gui="http://"
 kodi="18"
 theme="http://"
