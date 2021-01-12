@@ -62,6 +62,18 @@ preview="http://"
 adult="no"
 description="Netflix Style Build (Beta version) with PVR *Works only on win PC"
 
+name="Bang Netflix Build PC Server 2"
+version="1.1"
+url="https://srv12.racaty.net:183/d/ryfly4sg6vj4hw5ijgkivz26yjyamcirpkpmeksnxhx255zbyyedkhz2owwlzhtaus6x7jqu/bang+netflix.zip"
+gui="https://srv12.racaty.net:183/d/ryfl24sg6vj4hw5ijgkmh6cn2t65va5b72p6vg5gctka3xmocc7f2nfrc53eyns5xuzrpelt/bang%2Bnetflix_guisettings.zip"
+kodi="18"
+theme="http://"
+icon="https://i.postimg.cc/MZgVq2C7/Screenshot-12.png"
+fanart="https://i.postimg.cc/MZgVq2C7/Screenshot-12.png" 
+preview="http://"
+adult="no"
+description="Netflix Style Build (Beta version) with PVR *Works only on win PC - Server 2"
+
 
 
 name="Bang - legit estuary"
