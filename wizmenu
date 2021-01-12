@@ -52,7 +52,7 @@ description="New Zealand Kodi 18.7 Build works on android PVR etc"
 
 name="Bang Netflix Build PC"
 version="1.0"
-url="https://archive.org/download/backup_20200601/backup.zip"
+url="https://archive.org/download/bang-binge-kodi-pc-version/Bang%20Binge%20Kodi%20pc%20version.zip"
 gui="http://"
 kodi="18"
 theme="http://"
@@ -60,7 +60,7 @@ icon="https://i.postimg.cc/MZgVq2C7/Screenshot-12.png"
 fanart="https://i.postimg.cc/MZgVq2C7/Screenshot-12.png" 
 preview="http://"
 adult="no"
-description="Netflix Style Build (Beta version) PC"
+description="Netflix Style Build (Beta version) with PVR *Works only on win PC"
 
 
 
