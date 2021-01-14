@@ -74,6 +74,18 @@ preview="http://"
 adult="no"
 description="Netflix Style Build (Beta version) with PVR *Works only on win PC - Server 2"
 
+name="Bang Netflix Build Andorid"
+version="1.5"
+url="https://archive.org/download/netflix_202101/netflix.zip"
+gui="https://archive.org/download/netflix_202101/netflix_guisettings.zip"
+kodi="18"
+theme="http://"
+icon="https://i.postimg.cc/MZgVq2C7/Screenshot-12.png"
+fanart="https://i.postimg.cc/MZgVq2C7/Screenshot-12.png" 
+preview="http://"
+adult="no"
+description="Netflix Style Build (Beta version) with PVR"
+
 
 
 name="Bang - legit estuary"
@@ -116,17 +128,6 @@ preview="http://"
 adult="no"
 description=""
 
-name="Bang Netflix Build Andorid TEST"
-version="1.3"
-url="https://archive.org/download/netflixandoroid/netflixandoroid.zip"
-gui="https://archive.org/download/netflixandoroid/netflixandoroid_guisettings.zip"
-kodi="18"
-theme="http://"
-icon="https://i.postimg.cc/MZgVq2C7/Screenshot-12.png"
-fanart="https://i.postimg.cc/MZgVq2C7/Screenshot-12.png" 
-preview="http://"
-adult="no"
-description="Netflix Style Build (Beta version) with PVR TEST INSTALL"
 
 
 name="Bang Netflix Build PC  test 1"
